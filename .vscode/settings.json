@@ -4,8 +4,8 @@
     "source.fixAll": "explicit"
   },
   "sonarlint.connectedMode.project": {
-    "connectionId": "sap-1",
-    "projectKey": "e-mobility-charging-stations-simulator"
+    "connectionId": "testPosts",
+    "projectKey": "e-mobility-charging-stations-simulator-webui"
   },
   "cSpell.words": [
     "backoff",
